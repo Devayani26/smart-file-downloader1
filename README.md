@@ -25,3 +25,6 @@ The app runs on Google Colab or locally, providing a simple web interface for re
    ```bash
    git clone https://github.com/<your-github-username>/smart-file-downloader.git
    cd smart-file-downloader
+
+## 🔗 Live Demo
+[Try the Smart File Downloader](https://smart-file-downloader.streamlit.app/)
